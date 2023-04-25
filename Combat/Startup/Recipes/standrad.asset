@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97a62c7499734fd1ac133a73e9ebbca2, type: 3}
+  m_Name: standrad
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 5022602860645237092, guid: fd1e3e675fcbc364088ec3bd3660cbca, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: internalData
+      Entry: 7
+      Data: 0|Combat.Launch.LuaRecipe, Assembly-CSharp
+    - Name: overridePlayerBrain
+      Entry: 7
+      Data: 1|Combat.DebugBrain, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: overrideEnemyBrain
+      Entry: 7
+      Data: 2|Combat.DebugBrain, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: overrideBrain
+      Entry: 6
+      Data: 
+    - Name: Script
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
